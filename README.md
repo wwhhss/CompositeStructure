@@ -1,2 +1,2 @@
-# CompositeStructure
+
 This project serves as supplementary material for the paper titled *"Inverse identification of a two-stage eigenstrain model using macroscopic spring-back and warpage."* It includes numerical models (in CATIA and CAE formats) for the variable-thickness L-shaped component and the complex-shaped variable-thickness T-stringer, both used to validate the eigenstrain method. The CAE models are developed based on Abaqus 2024, with pre-configured parameters, layups, boundary conditions, and meshed geometry. The user subroutine implementing the eigenstrain method is also included.
